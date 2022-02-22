@@ -1,4 +1,4 @@
-@parametreliTest
+@paralel1
 Feature: US1003 parametre ile stepdefinition olusturma
 
   Scenario: TC05_parametre kullanimi
